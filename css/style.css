@@ -300,6 +300,6 @@ button:focus {
   background-color: darkblue;
   cursor: pointer;
 }
-form div {
+form div  {
   margin-top: 1rem;
 }
